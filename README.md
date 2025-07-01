@@ -24,7 +24,7 @@ The goal of this project is to teach and demonstrate:
 - `Reviewer`: Represents a user who writes reviews.
 - `Owner`: A Pokémon owner or trainer (optional relationship).
 
-### ✔️ Data Layer
+###  Data Layer
 - Uses **Entity Framework Core** with an in-memory database (easily replaceable with SQL Server).
 - Relationships:
   - One Pokemon → Many Reviews
