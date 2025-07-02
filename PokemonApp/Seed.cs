@@ -93,7 +93,7 @@ namespace PokemonApp
                                 new Review { Title="Veasaur",Text = "Venasuar is the best pokemon, because it is electric", Rating = 5,
                                 Reviewer = new Reviewer(){ FirstName = "Teddy", LastName = "Smith" } },
                                 new Review { Title="Veasaur",Text = "Venasuar is the best a killing rocks", Rating = 5,
-                                Reviewer = new Reviewer(){ FirstName = "Taylor", LastName = "Jones" } },
+                                Reviewer = new Reviewer(){ FirstName = "Ole", LastName = "Jones" } },
                                 new Review { Title="Veasaur",Text = "Venasuar, Venasuar, Venasuar", Rating = 1,
                                 Reviewer = new Reviewer(){ FirstName = "Jessica", LastName = "McGregor" } },
                             }
